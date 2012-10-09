@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstructuraRepetitivaFor1", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstructuraRepetitivaFor2", "EstructuraRepetitivaFor2\EstructuraRepetitivaFor2.csproj", "{E4200F5B-CE52-4C2A-A33E-1006BA535C55}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstructuraRepetitivaDoWhile1", "EstructuraRepetitivaDoWhile1\EstructuraRepetitivaDoWhile1.csproj", "{319A00F4-5483-4469-A358-7920240E2E19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstructuraRepetitivaDoWhile2", "EstructuraRepetitivaDoWhile2\EstructuraRepetitivaDoWhile2.csproj", "{8B038E34-8C68-410D-8728-53776FF90F8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -109,6 +113,14 @@ Global
 		{E4200F5B-CE52-4C2A-A33E-1006BA535C55}.Debug|x86.Build.0 = Debug|x86
 		{E4200F5B-CE52-4C2A-A33E-1006BA535C55}.Release|x86.ActiveCfg = Release|x86
 		{E4200F5B-CE52-4C2A-A33E-1006BA535C55}.Release|x86.Build.0 = Release|x86
+		{319A00F4-5483-4469-A358-7920240E2E19}.Debug|x86.ActiveCfg = Debug|x86
+		{319A00F4-5483-4469-A358-7920240E2E19}.Debug|x86.Build.0 = Debug|x86
+		{319A00F4-5483-4469-A358-7920240E2E19}.Release|x86.ActiveCfg = Release|x86
+		{319A00F4-5483-4469-A358-7920240E2E19}.Release|x86.Build.0 = Release|x86
+		{8B038E34-8C68-410D-8728-53776FF90F8D}.Debug|x86.ActiveCfg = Debug|x86
+		{8B038E34-8C68-410D-8728-53776FF90F8D}.Debug|x86.Build.0 = Debug|x86
+		{8B038E34-8C68-410D-8728-53776FF90F8D}.Release|x86.ActiveCfg = Release|x86
+		{8B038E34-8C68-410D-8728-53776FF90F8D}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
