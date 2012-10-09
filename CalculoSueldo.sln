@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoSueldo", "CalculoSue
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperficieCuadrado", "SuperficieCuadrado\SuperficieCuadrado.csproj", "{A0632AE5-2BE2-4174-B942-029B1410EDBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstructuraCondicionalCompuesta1", "EstructuraCondicionalCompuesta1\EstructuraCondicionalCompuesta1.csproj", "{BD13004E-3F65-44B0-B3A6-960FC4FB64C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,6 +21,10 @@ Global
 		{A0632AE5-2BE2-4174-B942-029B1410EDBB}.Debug|x86.Build.0 = Debug|x86
 		{A0632AE5-2BE2-4174-B942-029B1410EDBB}.Release|x86.ActiveCfg = Release|x86
 		{A0632AE5-2BE2-4174-B942-029B1410EDBB}.Release|x86.Build.0 = Release|x86
+		{BD13004E-3F65-44B0-B3A6-960FC4FB64C4}.Debug|x86.ActiveCfg = Debug|x86
+		{BD13004E-3F65-44B0-B3A6-960FC4FB64C4}.Debug|x86.Build.0 = Debug|x86
+		{BD13004E-3F65-44B0-B3A6-960FC4FB64C4}.Release|x86.ActiveCfg = Release|x86
+		{BD13004E-3F65-44B0-B3A6-960FC4FB64C4}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
