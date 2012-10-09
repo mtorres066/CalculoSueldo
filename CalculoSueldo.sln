@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstructuraRepetitivaWhile2"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstructuraRepetitivaWhile3", "EstructuraRepetitivaWhile3\EstructuraRepetitivaWhile3.csproj", "{77BF996C-29F1-480C-81C9-00B6AE16B3C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstructuraRepetitivaFor1", "EstructuraRepetitivaFor1\EstructuraRepetitivaFor1.csproj", "{E7B87A6F-8D9D-41A4-A45C-A4CC2AC183D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstructuraRepetitivaFor2", "EstructuraRepetitivaFor2\EstructuraRepetitivaFor2.csproj", "{E4200F5B-CE52-4C2A-A33E-1006BA535C55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -97,6 +101,14 @@ Global
 		{77BF996C-29F1-480C-81C9-00B6AE16B3C6}.Debug|x86.Build.0 = Debug|x86
 		{77BF996C-29F1-480C-81C9-00B6AE16B3C6}.Release|x86.ActiveCfg = Release|x86
 		{77BF996C-29F1-480C-81C9-00B6AE16B3C6}.Release|x86.Build.0 = Release|x86
+		{E7B87A6F-8D9D-41A4-A45C-A4CC2AC183D2}.Debug|x86.ActiveCfg = Debug|x86
+		{E7B87A6F-8D9D-41A4-A45C-A4CC2AC183D2}.Debug|x86.Build.0 = Debug|x86
+		{E7B87A6F-8D9D-41A4-A45C-A4CC2AC183D2}.Release|x86.ActiveCfg = Release|x86
+		{E7B87A6F-8D9D-41A4-A45C-A4CC2AC183D2}.Release|x86.Build.0 = Release|x86
+		{E4200F5B-CE52-4C2A-A33E-1006BA535C55}.Debug|x86.ActiveCfg = Debug|x86
+		{E4200F5B-CE52-4C2A-A33E-1006BA535C55}.Debug|x86.Build.0 = Debug|x86
+		{E4200F5B-CE52-4C2A-A33E-1006BA535C55}.Release|x86.ActiveCfg = Release|x86
+		{E4200F5B-CE52-4C2A-A33E-1006BA535C55}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
