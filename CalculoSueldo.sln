@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstructuraCondicionalAnidad
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstructuraCondicionalAnidada5", "EstructuraCondicionalAnidada5\EstructuraCondicionalAnidada5.csproj", "{ACB23DDB-73F8-4537-9FB5-0D1A1C8AC741}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CondicionCompuesta1", "CondicionCompuesta1\CondicionCompuesta1.csproj", "{15CDB377-985F-4147-837F-5F3A9EA8B0A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CondicionCompuesta2", "CondicionCompuesta2\CondicionCompuesta2.csproj", "{8E09A7B2-27D1-4E16-B718-38CA72D53C05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -67,6 +71,14 @@ Global
 		{ACB23DDB-73F8-4537-9FB5-0D1A1C8AC741}.Debug|x86.Build.0 = Debug|x86
 		{ACB23DDB-73F8-4537-9FB5-0D1A1C8AC741}.Release|x86.ActiveCfg = Release|x86
 		{ACB23DDB-73F8-4537-9FB5-0D1A1C8AC741}.Release|x86.Build.0 = Release|x86
+		{15CDB377-985F-4147-837F-5F3A9EA8B0A4}.Debug|x86.ActiveCfg = Debug|x86
+		{15CDB377-985F-4147-837F-5F3A9EA8B0A4}.Debug|x86.Build.0 = Debug|x86
+		{15CDB377-985F-4147-837F-5F3A9EA8B0A4}.Release|x86.ActiveCfg = Release|x86
+		{15CDB377-985F-4147-837F-5F3A9EA8B0A4}.Release|x86.Build.0 = Release|x86
+		{8E09A7B2-27D1-4E16-B718-38CA72D53C05}.Debug|x86.ActiveCfg = Debug|x86
+		{8E09A7B2-27D1-4E16-B718-38CA72D53C05}.Debug|x86.Build.0 = Debug|x86
+		{8E09A7B2-27D1-4E16-B718-38CA72D53C05}.Release|x86.ActiveCfg = Release|x86
+		{8E09A7B2-27D1-4E16-B718-38CA72D53C05}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
