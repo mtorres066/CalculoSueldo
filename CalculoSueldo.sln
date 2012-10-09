@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstructuraCondicionalCompue
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstructuraCondicionalCompuesta2", "EstructuraCondicionalCompuesta2\EstructuraCondicionalCompuesta2.csproj", "{3A4B0A32-7332-4961-B334-F7EF860AA736}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstructuraCondicionalSimple2", "EstructuraCondicionalSimple2\EstructuraCondicionalSimple2.csproj", "{AAB43DD7-DFD4-4088-AD37-EA7F1D13E13F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstructuraCondicionalCompuesta3", "EstructuraCondicionalCompuesta3\EstructuraCondicionalCompuesta3.csproj", "{6BECF553-AA6E-4FD2-8159-58825B4212E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -31,6 +35,14 @@ Global
 		{3A4B0A32-7332-4961-B334-F7EF860AA736}.Debug|x86.Build.0 = Debug|x86
 		{3A4B0A32-7332-4961-B334-F7EF860AA736}.Release|x86.ActiveCfg = Release|x86
 		{3A4B0A32-7332-4961-B334-F7EF860AA736}.Release|x86.Build.0 = Release|x86
+		{AAB43DD7-DFD4-4088-AD37-EA7F1D13E13F}.Debug|x86.ActiveCfg = Debug|x86
+		{AAB43DD7-DFD4-4088-AD37-EA7F1D13E13F}.Debug|x86.Build.0 = Debug|x86
+		{AAB43DD7-DFD4-4088-AD37-EA7F1D13E13F}.Release|x86.ActiveCfg = Release|x86
+		{AAB43DD7-DFD4-4088-AD37-EA7F1D13E13F}.Release|x86.Build.0 = Release|x86
+		{6BECF553-AA6E-4FD2-8159-58825B4212E1}.Debug|x86.ActiveCfg = Debug|x86
+		{6BECF553-AA6E-4FD2-8159-58825B4212E1}.Debug|x86.Build.0 = Debug|x86
+		{6BECF553-AA6E-4FD2-8159-58825B4212E1}.Release|x86.ActiveCfg = Release|x86
+		{6BECF553-AA6E-4FD2-8159-58825B4212E1}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
