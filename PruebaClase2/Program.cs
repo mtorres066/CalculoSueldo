@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 
 
-//Miguel
+//Miguel Torres
 namespace PruebaClase2
 {
     class Triangulo
