@@ -43,6 +43,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaClase1", "PruebaClase
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaClase2", "PruebaClase2\PruebaClase2.csproj", "{820FE1BF-5676-4C64-A6BD-A34AA156B5D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tabla", "Tabla\Tabla.csproj", "{ADAD0C25-D320-4616-95F6-CF6896253DDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EspacioMayorMenor", "EspacioMayorMenor\EspacioMayorMenor.csproj", "{A31D606A-07BA-44A1-A828-26F00B336ACB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -133,6 +137,14 @@ Global
 		{820FE1BF-5676-4C64-A6BD-A34AA156B5D0}.Debug|x86.Build.0 = Debug|x86
 		{820FE1BF-5676-4C64-A6BD-A34AA156B5D0}.Release|x86.ActiveCfg = Release|x86
 		{820FE1BF-5676-4C64-A6BD-A34AA156B5D0}.Release|x86.Build.0 = Release|x86
+		{ADAD0C25-D320-4616-95F6-CF6896253DDE}.Debug|x86.ActiveCfg = Debug|x86
+		{ADAD0C25-D320-4616-95F6-CF6896253DDE}.Debug|x86.Build.0 = Debug|x86
+		{ADAD0C25-D320-4616-95F6-CF6896253DDE}.Release|x86.ActiveCfg = Release|x86
+		{ADAD0C25-D320-4616-95F6-CF6896253DDE}.Release|x86.Build.0 = Release|x86
+		{A31D606A-07BA-44A1-A828-26F00B336ACB}.Debug|x86.ActiveCfg = Debug|x86
+		{A31D606A-07BA-44A1-A828-26F00B336ACB}.Debug|x86.Build.0 = Debug|x86
+		{A31D606A-07BA-44A1-A828-26F00B336ACB}.Release|x86.ActiveCfg = Release|x86
+		{A31D606A-07BA-44A1-A828-26F00B336ACB}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
