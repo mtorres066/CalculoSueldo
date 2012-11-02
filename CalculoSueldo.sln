@@ -53,6 +53,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaVector2", "PruebaVect
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaVector3", "PruebaVector3\PruebaVector3.csproj", "{8E88D786-CA99-4C6B-A800-66A7F471CC87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaVector8", "PruebaVector8\PruebaVector8.csproj", "{D3FBFF39-7759-4B26-8988-7E2EC6E47698}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaVector10", "PruebaVector10\PruebaVector10.csproj", "{1324051F-E6F6-4558-812A-893F675C0EC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -163,6 +167,14 @@ Global
 		{8E88D786-CA99-4C6B-A800-66A7F471CC87}.Debug|x86.Build.0 = Debug|x86
 		{8E88D786-CA99-4C6B-A800-66A7F471CC87}.Release|x86.ActiveCfg = Release|x86
 		{8E88D786-CA99-4C6B-A800-66A7F471CC87}.Release|x86.Build.0 = Release|x86
+		{D3FBFF39-7759-4B26-8988-7E2EC6E47698}.Debug|x86.ActiveCfg = Debug|x86
+		{D3FBFF39-7759-4B26-8988-7E2EC6E47698}.Debug|x86.Build.0 = Debug|x86
+		{D3FBFF39-7759-4B26-8988-7E2EC6E47698}.Release|x86.ActiveCfg = Release|x86
+		{D3FBFF39-7759-4B26-8988-7E2EC6E47698}.Release|x86.Build.0 = Release|x86
+		{1324051F-E6F6-4558-812A-893F675C0EC6}.Debug|x86.ActiveCfg = Debug|x86
+		{1324051F-E6F6-4558-812A-893F675C0EC6}.Debug|x86.Build.0 = Debug|x86
+		{1324051F-E6F6-4558-812A-893F675C0EC6}.Release|x86.ActiveCfg = Release|x86
+		{1324051F-E6F6-4558-812A-893F675C0EC6}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
